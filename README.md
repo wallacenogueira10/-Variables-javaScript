@@ -1,1 +1,6 @@
-# -Variables-javaScript
+nome: string
+sobrenome: string
+peso:
+altura:
+dataDeinterção:
+diabético: string
